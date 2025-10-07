@@ -1,7 +1,4 @@
-<<<<<< home-work-3
-# r_d-test-repo
+let text = 'Hello R_D world!'
+console.log(text)
 
-Hello R_D world!
-
-// Test repository one more thing 
-
+// Test repository
